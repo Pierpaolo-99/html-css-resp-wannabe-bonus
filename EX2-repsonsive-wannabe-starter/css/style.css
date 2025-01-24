@@ -168,22 +168,6 @@ img {
     .container{
         width: 480px;
         max-width: 100%;
-        padding: 0;
-    }
-
-    .site-header{
-        width: 480px;
-        max-width: 100%;
-    }
-
-    .steps{
-        width: 480px;
-        max-width: 100%;
-        padding: 1rem 0;
-
-        h2{
-            margin-bottom: 0;
-        }
     }
 
     .row{
@@ -191,7 +175,19 @@ img {
         align-items: center;
     }
 
-    .col{
-        padding: 0;
+    .steps .col{
+        width: 100%;
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
     }
 }
