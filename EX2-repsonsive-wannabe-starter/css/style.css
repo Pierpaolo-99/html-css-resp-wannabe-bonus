@@ -131,14 +131,17 @@ img {
 
     .container{
         width: 1160px;
+        max-width: 100%;
     }
 
     .site-header{
         width: 1160px;
+        max-width: 100%;
     }
 
     .steps{
         width: 1160px;
+        max-width: 100%;
     }
 }
 
@@ -146,14 +149,17 @@ img {
 
     .container{
         width: 768px;
+        max-width: 100%;
     }
 
     .site-header{
         width: 768px;
+        max-width: 100%;
     }
 
     .steps{
         width: 768px;
+        max-width: 100%;
     }
 }
 
@@ -161,15 +167,18 @@ img {
 
     .container{
         width: 480px;
+        max-width: 100%;
         padding: 0;
     }
 
     .site-header{
         width: 480px;
+        max-width: 100%;
     }
 
     .steps{
         width: 480px;
+        max-width: 100%;
         padding: 1rem 0;
 
         h2{
